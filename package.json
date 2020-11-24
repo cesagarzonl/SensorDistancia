@@ -1,0 +1,19 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Leer la distancia con un sensor ultrasonico y mostrarla bonita atravez de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "arduino",
+    "nodejs",
+    "sensor"
+  ],
+  "author": "Cesar Garzon",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^9.0.2"
+  }
+}
